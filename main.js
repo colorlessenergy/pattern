@@ -1,5 +1,3 @@
-alert("load")
-
 var alphabet = "abcedefghijklmnopqrstuvwxyz".split("");
 
 
